@@ -71,3 +71,9 @@
  > git revert hash_do_commit
 
  ➔ Volta para um commit especifico.
+ 
+ <hr>
+ 
+ > git fetch
+
+ ➔ Busca atualizações da branch.
