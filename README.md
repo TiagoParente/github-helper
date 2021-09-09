@@ -53,3 +53,21 @@
  > git tag --delete origin nome_da_tag
 
  ➔ Apaga uma tags no seu remote.
+ 
+ <hr>
+ 
+ > git checkout tags/nome_da_tag
+
+ ➔ Acessa os arquivos de uma tag especifica.
+ 
+<hr>
+ 
+ > git reset --hard HEAD   
+
+ ➔ Volta para o cabeçalho do remote.
+ 
+<hr>
+ 
+ > git revert hash_do_commit
+
+ ➔ Volta para um commit especifico.
