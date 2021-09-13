@@ -77,3 +77,9 @@
  > git fetch
 
  ➔ Busca atualizações da branch.
+ 
+ <hr>
+ 
+ > git fetch origin pull/ID/head:BRANCHNAME
+
+➔ Se for necessário testar uma pull request que foi criada, pode utilizar esse comando para baixar a PR para o seu repositório local.
