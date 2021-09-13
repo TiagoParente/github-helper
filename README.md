@@ -4,6 +4,7 @@
 <h3 align="center">GitHub - Comandos Úteis</h3>
 
 <p align="center">Nesse repositório você encontrará comandos que são utilizados no dia a dia.</p>
+<p align="center"><a href="https://docs.google.com/presentation/d/1MUGOmkU1VH8HdjD3rP4Rr4PyHQ_VtfSzShA08pXtwJU/edit?usp=sharing">Apresentação</a></p>
 </p>
 
 ## 👨🏿‍💻 Comandos
