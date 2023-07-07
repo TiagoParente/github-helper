@@ -84,3 +84,15 @@
  > git fetch origin pull/ID/head:BRANCHNAME
 
 ➔ Se for necessário testar uma pull request que foi criada, pode utilizar esse comando para baixar a PR para o seu repositório local.
+
+ <hr>
+ 
+ > git reset --soft HEAD~1
+
+ ➔ Caso tenha digitado "git comit ..." por engano, use esse comando para reverter a ação
+
+  <hr>
+ 
+ > git reset
+
+ ➔ Caso tenha digitado "git add ." por engano, use esse comando para reverter a ação
