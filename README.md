@@ -29,3 +29,18 @@
 |    **git reset** | Caso tenha digitado "git add ." por engano, use esse comando para reverter a ação
 |    **git reset --hard <hash_do_commit>** | Caso precise voltar a um commit especifico, utilize esse comando
 |    **git log** | Veja o histórico de commits e tenha acesso aos hash dos commits
+
+## Tipos de Commits
+| Tipo | Descrição |
+|--|--|
+| **feat** | Nova Funcionalidade |
+| **fix** | Correção de bug |
+| **docs** | Documentação |
+| **style** | Formatação sem mudança lógica |
+| **refactor** | Refatoração sem alterar comportamento |
+| **test** | Testes |
+| **chore** | Usado para alterações que não afetam o código de produção diretamente |
+| **perf** | Melhoria de performance |
+| **build** | Alterações de build |
+| **ci** | Alterações de integração contínua |
+| **revert** | Revertendo commit |
